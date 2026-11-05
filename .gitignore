@@ -1,0 +1,7 @@
+# Only the minimal public page is published. details.html and the start-frame tile stay local.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/media/
+/media/start-frames.jpg
